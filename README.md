@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Analisador de Seleções nas Copas do Mundo
 
 **Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
