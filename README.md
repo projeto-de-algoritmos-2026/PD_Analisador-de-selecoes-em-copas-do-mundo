@@ -17,14 +17,16 @@ Para isso, o sistema calcula um índice de desempenho com base na pontuação e 
 A partir desses índices, o projeto aplica o algoritmo de **Maior Subsequência Crescente** para encontrar a maior sequência de Copas em que o desempenho da seleção, escolhida pelo usuário, aumentou progressivamente, considerando exclusivamente a fase de grupos.
 
 ## Screenshots
-*Visão geral da aplicação e regras.*
+A seguir estão imagens do projeto em funcionamento.
+
 ![Tela Inicial](data/image1.png)
+*Visão geral da aplicação e regras.*
 
-*Exibição dos dados filtrados para a seleção escolhida.*
 ![Tabela de Dados](data/image2.png)
+*Exibição dos dados filtrados para a seleção escolhida.*
 
-*Resultado do algoritmo de Maior Subsequência Crescente destacando a evolução da seleção Brasileira!.*
 ![Resultado LIS](data/image3.png)
+*Resultado do algoritmo de Maior Subsequência Crescente, destacando a evolução da seleção Brasileira, nesse exemplo.*
 
 ## Instalação
 **Linguagem**: Python<br>
@@ -59,11 +61,11 @@ python -m streamlit run app.py
 
 Após executar o comando de inicialização, siga os passos abaixo para utilizar o projeto:
 
-1. **Acesse a aplicação:** O seu navegador padrão abrirá automaticamente a interface do Streamlit
-2. **Leia as diretrizes:** Na tela inicial, confira o painel informativo para entender como o **índice de desempenho** é calculado e quais critérios históricos foram adotados na base de dados (como a exclusão das edições sem fase de grupos).
+1. **Acesse a aplicação:** O seu navegador padrão abrirá automaticamente a interface do *Streamlit*.
+2. **Leia as diretrizes:** Na tela inicial, confira o painel informativo para entender como o **índice de desempenho** é calculado, e quais critérios históricos foram adotados na base de dados (como a exclusão das edições sem fase de grupos).
 3. **Escolha uma seleção:** Utilize a caixa de seleção (dropdown) intitulada **"Escolha uma seleção:"** para buscar o país que deseja analisar. Você pode digitar o nome da seleção para facilitar a busca.
 4. **Analise os dados históricos:** Logo abaixo, o sistema exibirá uma tabela detalhada com todas as participações daquela seleção na primeira fase de grupos, além de um gráfico de linhas mostrando a variação do seu rendimento ao longo dos anos.
-5. **Visualize a Maior Subsequência Crescente:** Role a página até a seção final para conferir o resultado do algoritmo. O sistema destacará em quais edições consecutivas a seleção apresentou uma evolução contínua em seu desempenho, exibindo os dados em cards interativos.
+5. **Visualize a Maior Subsequência Crescente:** Role a página até a seção final para conferir o resultado do algoritmo. O sistema destacará a maior sequência de edições que a seleção apresentou uma evolução contínua em seu desempenho, exibindo os dados em cards interativos.
 
 ## Vídeo de Apresentação
 Link para o vídeo de apresentação e demonstração do trabalho: [Clique aqui]()
