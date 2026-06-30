@@ -17,9 +17,14 @@ Para isso, o sistema calcula um índice de desempenho com base na pontuação e 
 A partir desses índices, o projeto aplica o algoritmo de **Maior Subsequência Crescente** para encontrar a maior sequência de Copas em que o desempenho da seleção, escolhida pelo usuário, aumentou progressivamente, considerando exclusivamente a fase de grupos.
 
 ## Screenshots
-![Tela Inicial](data/image1.png) - *Visão geral da aplicação e regras.*
-![Tabela de Dados](data/image2.png) - *Exibição dos dados filtrados para a seleção escolhida.*
-![Resultado LIS](data/image3.png) - *Resultado do algoritmo de Maior Subsequência Crescente destacando a evolução da seleção Brasileira!.*
+*Visão geral da aplicação e regras.*
+![Tela Inicial](data/image1.png)
+
+*Exibição dos dados filtrados para a seleção escolhida.*
+![Tabela de Dados](data/image2.png)
+
+*Resultado do algoritmo de Maior Subsequência Crescente destacando a evolução da seleção Brasileira!.*
+![Resultado LIS](data/image3.png)
 
 ## Instalação
 **Linguagem**: Python<br>
