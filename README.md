@@ -68,4 +68,4 @@ Após executar o comando de inicialização, siga os passos abaixo para utilizar
 5. **Visualize a Maior Subsequência Crescente:** Role a página até a seção final para conferir o resultado do algoritmo. O sistema destacará a maior sequência de edições que a seleção apresentou uma evolução contínua em seu desempenho, exibindo os dados em cards interativos.
 
 ## Vídeo de Apresentação
-Link para o vídeo de apresentação e demonstração do trabalho: [Clique aqui]()
+Link para o vídeo de apresentação e demonstração do trabalho: [Clique aqui](https://youtu.be/SBBjyQmpiyk)
